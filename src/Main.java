@@ -9,9 +9,7 @@ public class Main {
         }
         return arr;
     }
-
     public static void main(String[] args) {
-
         //задание 1.
         System.out.println("Задание 1");
         int[] arr = generateRandomArray();
